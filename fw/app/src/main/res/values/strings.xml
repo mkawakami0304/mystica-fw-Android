@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">fw</string>
+
+    <string-array name="navigation_title">
+        <item>Sec 1</item>
+        <item>Sec 2</item>
+        <item>Sec 3</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
